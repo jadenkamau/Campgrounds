@@ -1,3 +1,3 @@
-# YelpCamp
+# Campgrounds
 
-### Refactored by Ian Schoonover
+### Edited By Jaden Kamau
